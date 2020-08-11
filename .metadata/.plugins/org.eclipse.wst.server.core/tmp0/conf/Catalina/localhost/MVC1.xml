@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="H:\Projects\MVC\MVC\WebContent" path="/MVC1" reloadable="true" source="org.eclipse.jst.jee.server:MVC">
+         <Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/oracle" password="hong" type="javax.sql.DataSource" url="jdbc:oracle:thin:@Localhost:1522:myoracle" username="ora_user"/>
+      <Resources><PreResources base="H:\Projects\MVC\MVC\build\classes" classLoaderOnly="false" className="org.apache.catalina.webresources.DirResourceSet" internalPath="/" webAppMount="/WEB-INF/classes"/><PreResources base="H:\Projects\MVC\MVC\build\classes" classLoaderOnly="false" className="org.apache.catalina.webresources.DirResourceSet" internalPath="/" webAppMount="/WEB-INF/classes"/></Resources></Context>

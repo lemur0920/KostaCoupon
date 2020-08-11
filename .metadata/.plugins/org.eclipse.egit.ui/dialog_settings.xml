@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="GitSelectRepositoryPage.lastRepository" value="H:\Projects\Web\WebContent\kosta-197-project\.git"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/devchanki/kosta-197-project.git"/>
+		<item value="https://github.com:8080/devchanki/kosta-197-project.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+</section>

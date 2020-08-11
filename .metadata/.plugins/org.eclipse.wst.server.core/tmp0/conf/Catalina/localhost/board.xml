@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="H:\Projects\MVC\board\WebContent" path="/board" reloadable="true" source="org.eclipse.jst.jee.server:board"><Resources><PreResources base="H:\Projects\MVC\board\build\classes" classLoaderOnly="false" className="org.apache.catalina.webresources.DirResourceSet" internalPath="/" webAppMount="/WEB-INF/classes"/></Resources></Context>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="H:\Projects\Web\WebContent\kosta-197-project"/>
+			<item value="H:\Projects\Web\WebContent\kosta-197-project\Aptogether"/>
+			<item value="H:\Projects\kosta-197-project"/>
+			<item value="C:\Users\lemur\Downloads\kosta-197-project-master"/>
+			<item value="H:\Projects\MVC"/>
+		</list>
+	</section>
+</section>

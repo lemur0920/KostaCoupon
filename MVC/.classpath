@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/annotations-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/catalina.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/catalina-ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/catalina-ha.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/catalina-storeconfig.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/catalina-tribes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/cos.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/ecj-4.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/el-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/jasper.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/jasper-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/jaspic-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/jsp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-coyote.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-de.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-es.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-jdbc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-jni.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-util-scan.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/tomcat-websocket.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tomcat/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="H:/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="H:/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="H:/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="H:/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="H:/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="H:/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="H:/lib/cos.jar"/>
+	<classpathentry kind="lib" path="H:/lib/ecj-4.13.jar"/>
+	<classpathentry kind="lib" path="H:/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="H:/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="H:/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="H:/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="H:/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="H:/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="H:/lib/mybatis-3.2.6.jar"/>
+	<classpathentry kind="lib" path="H:/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="H:/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="H:/lib/standard.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcatIntegration.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="H:/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="H:/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

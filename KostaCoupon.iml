@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://H:/KostaCoupon (2)/KostaCoupon/bin" />
+    <exclude-output />
+    <content url="file://H:/KostaCoupon (2)/KostaCoupon">
+      <sourceFolder url="file://H:/KostaCoupon (2)/KostaCoupon/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
